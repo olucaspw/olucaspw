@@ -4,9 +4,7 @@ My main interests are Software Engineer and InfoSec. I really am into front-end 
 
 ## Learning now 👨‍💻
 <div>
-  <img alt="Python" height="30" widht="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
-  <img alt="Python" height="30" widht="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
-  <img alt="Python" height="30" widht="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
-  <img alt="Python" height="30" widht="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
-  <img alt="Python" height="30" widht="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
