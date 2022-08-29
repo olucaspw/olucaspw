@@ -1,13 +1,10 @@
-## Hi there! 👋
-I'm Lucas Azevedo, a computer science student at Universidade Estadual do Ceará (UECE). 
-My main interests are Software Engineer and InfoSec. I really am into front-end also, as I have had some experience in graphic design.
+## Hi there! 👋 I'm Lucas Azevedo, a Computer Science student from Brazil.
+- I study at Universidade Estadual do Ceará (UECE).
+- I'm currently learning JavaScript and more about web development.
+- Also very interested in graphics design. Fun fact: I am the designer of the default wallpaper of Lubuntu 20.10 and winner of the 20.04 contest.
+- I have a German Shepherd named Luna
+<datails>
+  <summary>Pics</summary>
+</details>
 
-## My languages 👨‍💻
-I mostly used Python when starting to code, so the majority of my projects were made with it. At university, I mainly used C, as it was the language that my professor used. Recently, I started learning JavaScript, and I'm looking to learn more about it. In addition, when I was younger, I took a basic Arduino course, but I never studied it again.
-
-<div>
-  <img height="20" width='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="20" width='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img height="20" width='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="20" width='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /> 
-</div>
+## How to reach me
