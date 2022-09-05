@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Lucas Azevedo, a Computer Science student from Brazil.
 - I study at Universidade Estadual do Ceará (UECE).
 - I'm currently learning JavaScript and more about web development.
-- Also very interested in graphics design. Fun fact: I am the designer of the <a href="https://discourse.lubuntu.me/t/focal-fossa-20-04-lts-wallpaper-competition/566/35">default wallpaper of Lubuntu 20.10 and winner of the 20.04 contest</a>.
+- Also, I´m very interested in graphics design. Fun fact: I am the designer of the <a href="https://discourse.lubuntu.me/t/focal-fossa-20-04-lts-wallpaper-competition/566/35">default wallpaper of Lubuntu 20.10 and winner of the 20.04 contest</a>.
 - I have a German Shepherd named <a href="https://raw.githubusercontent.com/olucaspw/olucaspw/main/luna.jpg">Luna</a>.
 
 ## Things I'm learning
